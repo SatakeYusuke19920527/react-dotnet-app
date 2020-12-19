@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "V5vW5LFNwhtPmQ+uR+qfor3wYietAIFFKgL5StuvRQxhCT5KlGxD9DQhiFqaGV8cTfT2WdYwSgwNdQ5mc6dObQ==",
+  "success": true,
+  "projectFilePath": "/Users/s.y/dev/04.dotnet/react-dotnet-app/react-dotnet-app/react-dotnet-app.csproj",
+  "expectedPackageFiles": [
+    "/Users/s.y/.nuget/packages/microsoft.aspnetcore.spaservices.extensions/5.0.1/microsoft.aspnetcore.spaservices.extensions.5.0.1.nupkg.sha512",
+    "/Users/s.y/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/Users/s.y/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/Users/s.y/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/Users/s.y/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
